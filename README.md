@@ -1,4 +1,4 @@
-# incompleta
+# Incompleta
 
 Título de la Obra: Incompleta
 Año: 2023
